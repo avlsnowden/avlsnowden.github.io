@@ -22,18 +22,11 @@ video {
   align-items: center;
   justify-content: center;
   font-family: 'Courier New';
-  color: white;
+  color: black;
+  font-size: 32pt;
   user-select: none; /* supported by Chrome and Opera */
   -webkit-user-select: none; /* Safari */
   -khtml-user-select: none; /* Konqueror HTML */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* Internet Explorer/Edge */
-}
-
-h1 {
-	font-size: 64pt;
-}
-
-h3 {
-	font-size: 24pt;
 }
